@@ -1,0 +1,7 @@
+/local
+/cpanfile.snapshot
+/MANIFEST
+.DS_Store
+*.tar.gz
+*.swp
+*.swo
